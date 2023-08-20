@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a946078b-f1b9-4011-9d65-bdd59fcb28f4" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/Q_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic_Function.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,37 +45,37 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Q_9">
-    <configuration name="Q_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q_4" />
+  <component name="RunManager" selected="Application.Basic_Function">
+    <configuration name="Basic_Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic_Function" />
       <module name="Augest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q_6" />
+    <configuration name="Q_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q_13" />
       <module name="Augest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q_7" />
+    <configuration name="Q_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q_14" />
       <module name="Augest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q_8" />
+    <configuration name="Q_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q_17" />
       <module name="Augest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q_9" />
+    <configuration name="Q_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q_18" />
       <module name="Augest" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,18 +83,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q_9" />
-        <item itemvalue="Application.Q_8" />
-        <item itemvalue="Application.Q_7" />
-        <item itemvalue="Application.Q_6" />
-        <item itemvalue="Application.Q_4" />
+        <item itemvalue="Application.Basic_Function" />
+        <item itemvalue="Application.Q_17" />
+        <item itemvalue="Application.Q_14" />
+        <item itemvalue="Application.Q_18" />
+        <item itemvalue="Application.Q_13" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="552aff0e-a453-4343-8fea-fac52e583e90" name="Changes" comment="" />
+      <changelist id="a946078b-f1b9-4011-9d65-bdd59fcb28f4" name="Changes" comment="Initial commit" />
       <created>1692298510173</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -117,7 +114,35 @@
       <option name="project" value="LOCAL" />
       <updated>1692471249295</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1692472636269</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692472636269</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1692472640681</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692472640681</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial commit">
+      <created>1692558130326</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692558130326</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial commit">
+      <created>1692561206581</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692561206581</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
