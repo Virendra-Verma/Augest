@@ -8,7 +8,6 @@ public class ArrayCCCC {
 
                 for (int k=i; k<=j; k++){
                     System.out.print(num[k]+" ");
-                    crr
                 }
                 System.out.println(")");
                 total++;
