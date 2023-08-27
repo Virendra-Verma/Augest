@@ -1,11 +1,9 @@
 public class ArrayCCCC {
     public static void printSubArray(int num[]){
         int total = 0;
-        int crrSum = 0;
         for(int i=0; i<num.length; i++){
             for (int j=i; j<num.length; j++){
                 System.out.print("( ");
-
                 for (int k=i; k<=j; k++){
                     System.out.print(num[k]+" ");
                 }
