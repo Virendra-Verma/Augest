@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a946078b-f1b9-4011-9d65-bdd59fcb28f4" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/Basic_Function.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19-08-2023_21_49_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19-08-2023_21_49__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,37 +46,37 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Basic_Function">
-    <configuration name="Basic_Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic_Function" />
+  <component name="RunManager" selected="Application.ArrayCCCC">
+    <configuration name="ArrayCC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayCC" />
       <module name="Augest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q_13" />
+    <configuration name="ArrayCCC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayCCC" />
       <module name="Augest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q_14" />
+    <configuration name="ArrayCCCC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayCCCC" />
       <module name="Augest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q_17" />
+    <configuration name="Arrayc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrayc" />
       <module name="Augest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q_18" />
+    <configuration name="BasicFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicFactorial" />
       <module name="Augest" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Basic_Function" />
-        <item itemvalue="Application.Q_17" />
-        <item itemvalue="Application.Q_14" />
-        <item itemvalue="Application.Q_18" />
-        <item itemvalue="Application.Q_13" />
+        <item itemvalue="Application.ArrayCCCC" />
+        <item itemvalue="Application.ArrayCCC" />
+        <item itemvalue="Application.Arrayc" />
+        <item itemvalue="Application.ArrayCC" />
+        <item itemvalue="Application.BasicFactorial" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +143,63 @@
       <option name="project" value="LOCAL" />
       <updated>1692561206581</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Initial commit">
+      <created>1692723814195</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1692723814195</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Initial commit">
+      <created>1692723829322</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1692723829322</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Initial commit">
+      <created>1692809947071</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1692809947071</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Initial commit">
+      <created>1692895541325</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1692895541325</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Initial commit">
+      <created>1692984047909</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1692984047909</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Initial commit">
+      <created>1693069658144</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1693069658144</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Initial commit">
+      <created>1693072951373</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1693072951373</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Initial commit">
+      <created>1693100424394</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1693100424394</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
