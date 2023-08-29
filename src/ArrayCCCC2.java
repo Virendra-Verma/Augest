@@ -15,13 +15,11 @@ public class ArrayCCCC2 {
                     max=currSum;
                 }
             }
-
         }
         System.out.println("Max Sum : "+ max);
     }
     public static void main(String[] args) {
-        int num[] = {2,4,6,8,10};
+        int num[] = {2,4,6,-1,-9,8,10};
         MaxSubArray(num);
-
     }
 }
