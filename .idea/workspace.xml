@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a946078b-f1b9-4011-9d65-bdd59fcb28f4" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/StringQ1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringQ2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringQ3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringQ4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringQ5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,16 +50,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StringQ4">
-    <configuration name="StringQ1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringQ1" />
-      <module name="Augest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringQ2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringQ2" />
+  <component name="RunManager" selected="Application.BitManipulation">
+    <configuration name="BitManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BitManipulation" />
       <module name="Augest" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,6 +72,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringQ5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringQ5" />
+      <module name="Augest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SubString" />
       <module name="Augest" />
@@ -93,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BitManipulation" />
+        <item itemvalue="Application.StringQ5" />
         <item itemvalue="Application.StringQ4" />
         <item itemvalue="Application.SubString" />
         <item itemvalue="Application.StringQ3" />
-        <item itemvalue="Application.StringQ2" />
-        <item itemvalue="Application.StringQ1" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +322,35 @@
       <option name="project" value="LOCAL" />
       <updated>1694627265242</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Initial commit">
+      <created>1695228103636</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1695228103636</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Initial commit">
+      <created>1695228112831</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1695228112831</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Initial commit">
+      <created>1695320900590</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1695320900590</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Initial commit">
+      <created>1695320907091</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1695320907091</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
